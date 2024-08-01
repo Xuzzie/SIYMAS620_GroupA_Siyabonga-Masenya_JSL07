@@ -34,7 +34,7 @@ document.addEventListener("DOMContentLoaded", function () {
       <p> Has almost completed </p>
       <h3>${courseName}</h3>
       <p> With Legendery Bad-arseryy and the will to never give up </p>
-      <img src = "logo.png" style="width: 100px; height: 100px;>
+      
 
 
     `;
@@ -49,7 +49,7 @@ document.addEventListener("DOMContentLoaded", function () {
   });
 
   //  🚨 Close the modal when the close button is clicked
-  closeModal.addEventListener("clcik", function () {
+  closeModal.addEventListener("click", function () {
     modal.style.display = "none";
   });
 });
