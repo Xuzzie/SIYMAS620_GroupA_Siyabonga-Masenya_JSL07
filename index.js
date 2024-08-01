@@ -30,9 +30,11 @@ document.addEventListener("DOMContentLoaded", function () {
       <h1>Certificate of Achievement </h1>
       <p> This is to certify</p>
       <h3>${studentName}</h3>
+      <p>${personalMessage}<>
       <p> Has almost completed </p>
       <h3>${courseName}</h3>
       <p> With Legendery Bad-arseryy and the will to never give up </p>
+      <img src = "logo.png" style="width: 100px; height: 100px;>
 
 
     `;
