@@ -33,7 +33,9 @@ document.addEventListener("DOMContentLoaded", function () {
       <p>${personalMessage}<>
       <p> Has almost completed </p>
       <h3>${courseName}</h3>
-      <p> With Legendery Bad-arseryy and the will to never give up </p>
+      <p> With Legendery Bad-arseryy and the will to never give up!! </p>
+      <img id="logo" src="logo.png" />
+      
       
 
 

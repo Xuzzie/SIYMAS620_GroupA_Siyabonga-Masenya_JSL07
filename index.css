@@ -124,7 +124,7 @@ button:hover {
   background-color: #5d5f5e;
 }
 
-.logo {
-  width: 200;
+#logo {
+  width: 200px;
   height: auto;
 }
